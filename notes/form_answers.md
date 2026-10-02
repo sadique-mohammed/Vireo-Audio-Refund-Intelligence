@@ -21,10 +21,17 @@ The sample of 120 labels gives wide intervals (±8-10 points), and having a sing
 I explicitly left out Laya/Jev, complex RAG, agentic LLM flows, and a UI dashboard. The core business problem is financial reconciliation, which requires a robust, reproducible data pipeline rather than a web app or complex AI orchestrations that hallucinate.
 
 ## Anything you built or found that nobody asked for?
-I discovered that the internal "replacement_issued" flag is severely broken, catching only half of the actual instances (7% vs 15.6%) where a replacement was shipped alongside a refund. AI reading the notes found the true total.
+- Found the large gap between the raw export total and the canonical refund total.
+- Identified duplicate migration records and legacy money-unit issues.
+- Found refund + replacement / double-dip candidates for investigation.
+- Added an audit trail so Finance can trace adjustments back to source records.
 
 ## What did you use AI for?
-The AI (`groq/openai/gpt-oss-120b`) was used exclusively to read `customer_message` and `agent_notes` to categorize the true reason (because GW-OTHER was used as a generic dump) and extract evidence if a physical replacement was also sent. 
+- Used **GPT and Claude** for planning, reviewing the architecture, and challenging design decisions.
+- Used **Antigravity** for coding and implementation.
+- AI helped speed up planning and implementation.
+- Some AI suggestions were over-engineered and led to unnecessary work.
+- I discarded unnecessary abstractions and simplified the system around the actual data and assignment requirements.
 
 ## GitHub
 https://github.com/vireo/refund-intel-demo
@@ -36,9 +43,9 @@ N/A
 [Insert your Loom/Drive Link here]
 
 ## Three things for Monday handoff
-1. Review the generated `bridge.csv` to trace the ₹6.71M reconciliation.
-2. Review `double_dip_exceptions.csv` to take immediate action on the ~₹1.3 lakh quarterly leak.
-3. Confirm if the over-refunded orders discovered are genuine duplicate payouts or data artifacts.
+- Start with `README.md` and run the pipeline; the ledger is the financial source of truth.
+- AI only classifies ticket text; it **does not change refund amounts or reconciliation**.
+- Check `board_pack`, `eval_report`, `review_queue`, and `bridge.csv` for business results, AI quality, exceptions, and reconciliation.
 
 ## Honest hours spent
 5 hours.
