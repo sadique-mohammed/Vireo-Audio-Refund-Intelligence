@@ -2,9 +2,10 @@
 
 AI reads the ticket text. Code decides the money.
 
+![Pipeline Architecture](notes/architecture.png)
 Finance and the helpdesk quote very different refund totals. This repo builds one reconciled refund ledger from `data/raw/`, bridges both quoted figures to it, and adds an AI reading of each refund ticket (why it was raised, and whether a replacement also went out). The ledger is built before the AI runs and is byte-identical with or without it.
 
-**Current estimated refund + replacement rate: 15.6%. The proposed goal is to reduce this toward <1%, with an estimated replacement-cost opportunity of ₹65k–₹133k per quarter. These figures are estimates and need validation.**
+**Business goal:** Reduce the refund rate from **20.1% back to 19.0%**, the H1 2025 level. At the recent ticket volume, this represents approximately **₹73,000 less refund value per quarter**. This is an opportunity estimate, not a guaranteed saving.
 
 ## Run
 
