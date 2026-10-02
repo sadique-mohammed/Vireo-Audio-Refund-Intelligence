@@ -68,6 +68,8 @@ def render(n):
         "",
         "## Reading the ticket text",
         "",
+        "**⚠️ LIMITATION:** The vast majority of classifications currently rely on the `rules_fallback` baseline. Final AI accuracy has not yet been established across the full dataset.",
+        "",
         f"- Source of labels: {', '.join(f'{k} {v:,}' for k, v in sorted(ai['source_counts'].items()))}.",
         f"- Replacement estimate from keyword rules*: {n['replacement']['rules_yes']:,} refund tickets. The helpdesk flag marks {n['replacement']['flag_yes']:,}.",
         "",

@@ -15,7 +15,7 @@ AI helped with exploration and implementation, but some approaches were over-eng
 
 ### Submitted product
 
-The product exclusively relies on `groq/openai/gpt-oss-120b` (or equivalent open-weights models) using extremely fast inference APIs. The application caches responses heavily to minimize API calls. It pulls the prompt from `reason_v1` or `reason_v2` and strictly enforces negative constraints and JSON adherence.
+The product exclusively relies on the Llama 3 70B model via the Groq API. The application caches responses heavily to minimize API calls. It pulls the prompt from `reason_v1` or `reason_v2` and strictly enforces negative constraints and JSON adherence.
 
 ## Cost calculation
 

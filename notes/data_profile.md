@@ -1,12 +1,10 @@
 # Data Profile
 
 ## Files
-| File | Rows | Columns | Purpose | Notes |
-|---|---:|---:|---|---|
-| `tickets.csv` | 37,559 | 21 | Raw customer ticket data | Contains duplicates and legacy money issues. |
-| `orders.csv` | 134,818 | 9 | Truth for original purchase | Used to check if refund > purchase value. |
-| `agents.csv` | 108 | 5 | Agent mapping | Maps `agent_id` to `tier` and `site`. |
-| `support-policy.pdf`| N/A | N/A | Business rules | Contains rules on double-dips and legacy migrations. |
+| `tickets.csv` | Raw customer ticket data | Contains duplicates and legacy money issues. |
+| `orders.csv` | Truth for original purchase | Used to check if refund > purchase value. |
+| `agents.csv` | Agent mapping | Maps `agent_id` to `tier` and `site`. |
+| `support-policy.pdf`| Business rules | Contains rules on double-dips and legacy migrations. |
 
 ## Schema findings
 The `tickets.csv` file has a `source_system` column with two values: `legacy_fd` (Freshdesk) and `helpdesk` (current system).
@@ -19,7 +17,7 @@ The raw export total (₹2.3 Crore) is mathematically impossible compared to the
 Dates are stored as strings (e.g., `2025-01-01 09:17`). For the canonical ledger, we parse the `created_at` timestamp to extract the Year-Month string (e.g., `2025-01`) for financial aggregations.
 
 ## Duplicate findings
-**Finding:** Thousands of tickets exist twice in `tickets.csv`—once with `source_system=legacy_fd` and once with `helpdesk`. 
+**Finding:** 638 ticket IDs exist twice in `tickets.csv`—once with `source_system=legacy_fd` and once with `helpdesk`. 
 This perfectly matches Section 9 of the PDF: *"a subset of legacy tickets was re-imported during reconciliation"*. We must deduplicate by `ticket_id` and keep the newer `helpdesk` record.
 
 ## Reference-data joins

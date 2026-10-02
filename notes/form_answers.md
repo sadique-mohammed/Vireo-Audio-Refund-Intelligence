@@ -9,7 +9,7 @@ I built an AI-free deterministic financial ledger to solve the reconciliation cr
 
 ## What does one run cost?
 
-$0.00. I migrated the pipeline to the Groq free tier using `openai/gpt-oss-120b`. The LLM processes only the 2,340 refund tickets (at roughly 900 input tokens and 100 output tokens per ticket). Processing a full month of 569 refund tickets is completely free under their current tier limits. The results are cached so offline/rerun latency and costs are $0.
+$0.00. I migrated the pipeline to the Groq free tier using `openai/gpt-oss-120b`. The LLM processes only the 2,340 refund tickets (at roughly 900 input tokens and 100 output tokens per ticket). The results are cached so offline/rerun latency and costs are $0.
 
 ## How do you know it works?
 

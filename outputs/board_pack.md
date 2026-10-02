@@ -95,6 +95,8 @@ Reduce the refund rate from 20.1% back to 19.0%, the H1 2025 level. At the recen
 
 ## Reading the ticket text
 
+**⚠️ LIMITATION:** The vast majority of classifications currently rely on the `rules_fallback` baseline. Final AI accuracy has not yet been established across the full dataset.
+
 - Source of labels: llm 16, rules_fallback 2,324.
 - Replacement estimate from keyword rules*: 360 refund tickets. The helpdesk flag marks 166.
 

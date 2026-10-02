@@ -10,7 +10,7 @@ The true, reproducible figure is **₹67.1 lakh (₹6,709,932)** over 18 months.
 Refunds rose primarily because overall ticket volume doubled after the *Pulse 2* launch, not because agents became softer. The refund rate per ticket remains completely flat at ~20%. There is no evidence of a Q4 "stop arguing" policy spike; frontline CSAT sat flat at ~3.5.
 
 ## 3. The Reason Code Problem
-Reason codes completely hide the story. **43% of all refund value (₹29.1 lakh) sits in "Goodwill/Other" (GW-OTHER).** However, our AI extraction of the agent notes proves these are actually non-delivery, payment issues, and defects, misclassified simply because GW-OTHER is the first option in the dropdown. 
+Reason codes completely hide the story. **43% of all refund value (₹29.1 lakh) sits in "Goodwill/Other" (GW-OTHER).** However, the ticket-text analysis shows that many GW-OTHER tickets contain specific operational causes such as payment issues, delivery problems and product defects. 
 
 ## 4. Agent & Team Variances
 Ranking agents by "who is giving away money" is misleading because refund rates are tied directly to team functional design (e.g., the Returns Desk naturally has a 50% refund rate).

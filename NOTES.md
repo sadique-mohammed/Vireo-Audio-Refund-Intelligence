@@ -36,7 +36,7 @@ Figures come from `outputs/numbers.json`. Policy sections refer to `support-poli
 
 ## Left out on purpose
 
-Human-review queue and gate, audit-trail CSVs, run manifest, data-profile script, fuzzy deduplication, CSAT, SLA credits, handle time, and a frontend. None was in the brief.
+Run manifest, data-profile script, fuzzy deduplication, CSAT, SLA credits, handle time, and a frontend. None was in the brief.
 
 ## Status against the brief
 
@@ -46,6 +46,6 @@ Human-review queue and gate, audit-trail CSVs, run manifest, data-profile script
 | Monthly refunds by reason and by agent, total reconciles | `reason.csv`, `agent.csv`, `bridge.csv`. Built and tested. |
 | Both quoted figures bridged to one total | `bridge.csv`, `board_pack.md`. Built and tested. |
 | AI reads text, code decides money | `tests/test_ai_isolation.py`. |
-| Business goal as a number in ₹ | Not started. Needs the live cache first. |
-| Accuracy and error examples | Not started. Needs the live cache and about 50 hand labels. |
-| Memo, recording, form | Not started. |
+| Business goal as a number in ₹ | Done. See `form_answers.md` and `memo_arjun.md`. |
+| Accuracy and error examples | Done. See `form_answers.md`. |
+| Memo, recording, form | Done. |

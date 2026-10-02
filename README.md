@@ -7,6 +7,8 @@ Finance and the helpdesk quote very different refund totals. This repo builds on
 
 **Business goal:** Reduce the refund rate from **20.1% back to 19.0%**, the H1 2025 level. At the recent ticket volume, this represents approximately **₹73,000 less refund value per quarter**. This is an opportunity estimate, not a guaranteed saving.
 
+> [!WARNING]
+> **AI Evaluation Limitation:** The vast majority of ticket classifications currently rely on the deterministic `rules_fallback` baseline. Final AI accuracy has not yet been established across the full dataset. As a result, `eval_report.md` and `labels.csv` (which require ~50 hand-labeled tickets to generate) are not yet produced.
 ## Run
 
 Python 3.11 or newer. The supplied files are already in `data/raw/`.
