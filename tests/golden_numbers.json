@@ -1,0 +1,63 @@
+{
+  "raw_rows": 12238,
+  "unique_tickets": 11600,
+  "duplicates_removed": 638,
+  "duplicates_with_amount": 125,
+  "refund_tickets": 2340,
+  "quarantined": 0,
+  "bridge_inr": {
+    "naive_raw_sum": 230124081,
+    "legacy_rescale": -223053138,
+    "duplicates": -361011,
+    "canonical": 6709932
+  },
+  "quarterly_inr": {
+    "2025Q1": 609583,
+    "2025Q2": 727422,
+    "2025Q3": 1207091,
+    "2025Q4": 1627575,
+    "2026Q1": 1258438,
+    "2026Q2": 1279823
+  },
+  "open_pending_refund_tickets": 115,
+  "open_pending_refund_inr": 317314,
+  "orders_over_refunded": 98,
+  "orders_over_refunded_excess_inr": 250054,
+  "tickets_refund_above_order_value": 0,
+  "reason_code_inr": {
+    "CANCEL": {
+      "tickets": 222,
+      "inr": 612950
+    },
+    "DOA-REPL": {
+      "tickets": 147,
+      "inr": 471190
+    },
+    "DUP-PAYMENT": {
+      "tickets": 321,
+      "inr": 884586
+    },
+    "GW-OTHER": {
+      "tickets": 991,
+      "inr": 2907036
+    },
+    "LOST-TRANSIT": {
+      "tickets": 47,
+      "inr": 156557
+    },
+    "PRICE-ADJ": {
+      "tickets": 71,
+      "inr": 207073
+    },
+    "RETURN-QC-OK": {
+      "tickets": 452,
+      "inr": 1181386
+    },
+    "WTY-BUYBACK": {
+      "tickets": 89,
+      "inr": 289154
+    }
+  },
+  "gw_other_share": 0.4332,
+  "legacy_amounts_all_multiples_of_100": true
+}

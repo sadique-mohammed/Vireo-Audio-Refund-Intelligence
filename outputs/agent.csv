@@ -1,0 +1,714 @@
+month,agent_id,assigned_team,roster_team,tier,site,shift,refund_tickets,refund_paise,refund_inr
+2025-01,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,179900,1799.0
+2025-01,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,1,249900,2499.0
+2025-01,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,2,149000,1490.0
+2025-01,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,424900,4249.0
+2025-01,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,1,249900,2499.0
+2025-01,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,664900,6649.0
+2025-01,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,1,212400,2124.0
+2025-01,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,617400,6174.0
+2025-01,A3010,Logistics,Chat Frontline,1,Bengaluru,Morning,1,199900,1999.0
+2025-01,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,27000,270.0
+2025-01,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,28800,288.0
+2025-01,A3018,Email Frontline,Email Frontline,1,Indore,Day,3,184100,1841.0
+2025-01,A3019,Email Frontline,Email Frontline,1,Indore,Morning,1,424800,4248.0
+2025-01,A3020,Billing,Email Frontline,1,Bengaluru,Morning,1,539900,5399.0
+2025-01,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,179900,1799.0
+2025-01,A3022,Returns Desk,Email Frontline,1,Indore,Morning,1,159900,1599.0
+2025-01,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,899800,8998.0
+2025-01,A3028,Logistics,Logistics,1,Indore,Morning,1,159900,1599.0
+2025-01,A3029,Logistics,Logistics,1,Bengaluru,Morning,2,321700,3217.0
+2025-01,A3030,Logistics,Logistics,1,Indore,Day,1,399900,3999.0
+2025-01,A3031,Logistics,Logistics,1,Indore,Morning,2,379800,3798.0
+2025-01,A3031,Returns Desk,Logistics,1,Indore,Morning,1,179900,1799.0
+2025-01,A3032,Billing,Billing,1,Indore,Morning,7,1300600,13006.0
+2025-01,A3033,Billing,Billing,1,Bengaluru,Morning,1,699900,6999.0
+2025-01,A3034,Billing,Billing,1,Indore,Morning,4,637800,6378.0
+2025-01,A3035,Billing,Billing,1,Bengaluru,Day,2,417300,4173.0
+2025-01,A3036,Returns Desk,Returns Desk,1,Indore,Day,6,1924000,19240.0
+2025-01,A3037,Returns Desk,Returns Desk,1,Indore,Morning,7,1423000,14230.0
+2025-01,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,1,499900,4999.0
+2025-01,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,2,278700,2787.0
+2025-01,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,90000,900.0
+2025-02,A3002,Returns Desk,Chat Frontline,1,Indore,Night,1,584900,5849.0
+2025-02,A3003,Email Frontline,Chat Frontline,1,Indore,Night,1,424800,4248.0
+2025-02,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,143900,1439.0
+2025-02,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,1,199900,1999.0
+2025-02,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,199900,1999.0
+2025-02,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,699900,6999.0
+2025-02,A3016,Chat Frontline,Email Frontline,1,Indore,Night,1,170900,1709.0
+2025-02,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,474900,4749.0
+2025-02,A3018,Email Frontline,Email Frontline,1,Indore,Day,2,770800,7708.0
+2025-02,A3019,Email Frontline,Email Frontline,1,Indore,Morning,1,23700,237.0
+2025-02,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,129900,1299.0
+2025-02,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,90000,900.0
+2025-02,A3025,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,559900,5599.0
+2025-02,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,2,421900,4219.0
+2025-02,A3027,Logistics,Logistics,1,Indore,Morning,1,249900,2499.0
+2025-02,A3028,Logistics,Logistics,1,Indore,Morning,1,72000,720.0
+2025-02,A3029,Logistics,Logistics,1,Bengaluru,Morning,3,497300,4973.0
+2025-02,A3030,Logistics,Logistics,1,Indore,Day,8,3557600,35576.0
+2025-02,A3031,Logistics,Logistics,1,Indore,Morning,1,249900,2499.0
+2025-02,A3032,Billing,Billing,1,Indore,Morning,4,1029700,10297.0
+2025-02,A3033,Billing,Billing,1,Bengaluru,Morning,3,1284300,12843.0
+2025-02,A3034,Billing,Billing,1,Indore,Morning,5,703800,7038.0
+2025-02,A3035,Billing,Billing,1,Bengaluru,Day,4,1631600,16316.0
+2025-02,A3036,Returns Desk,Returns Desk,1,Indore,Day,6,1299400,12994.0
+2025-02,A3037,Returns Desk,Returns Desk,1,Indore,Morning,3,448000,4480.0
+2025-02,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,5,963300,9633.0
+2025-02,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,1,189900,1899.0
+2025-02,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,559900,5599.0
+2025-02,A3042,Chat Frontline,Escalations & Warranty,2,Indore,Day,1,161900,1619.0
+2025-03,A3001,Email Frontline,Chat Frontline,1,Indore,Night,1,664900,6649.0
+2025-03,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,2,269900,2699.0
+2025-03,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,104000,1040.0
+2025-03,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,37500,375.0
+2025-03,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,250000,2500.0
+2025-03,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,1724700,17247.0
+2025-03,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,384800,3848.0
+2025-03,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,629900,6299.0
+2025-03,A3016,Chat Frontline,Email Frontline,1,Indore,Night,1,629900,6299.0
+2025-03,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,249900,2499.0
+2025-03,A3017,Email Frontline,Email Frontline,1,Indore,Night,1,159900,1599.0
+2025-03,A3017,Returns Desk,Email Frontline,1,Indore,Night,1,237400,2374.0
+2025-03,A3018,Email Frontline,Email Frontline,1,Indore,Day,2,1284800,12848.0
+2025-03,A3019,Billing,Email Frontline,1,Indore,Morning,1,75000,750.0
+2025-03,A3019,Email Frontline,Email Frontline,1,Indore,Morning,1,179900,1799.0
+2025-03,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,249900,2499.0
+2025-03,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,179900,1799.0
+2025-03,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,152900,1529.0
+2025-03,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,3,1259700,12597.0
+2025-03,A3027,Logistics,Logistics,1,Indore,Morning,2,561800,5618.0
+2025-03,A3028,Logistics,Logistics,1,Indore,Morning,1,237400,2374.0
+2025-03,A3030,Logistics,Logistics,1,Indore,Day,3,1709600,17096.0
+2025-03,A3031,Logistics,Logistics,1,Indore,Morning,1,699900,6999.0
+2025-03,A3032,Billing,Billing,1,Indore,Morning,4,1622200,16222.0
+2025-03,A3033,Billing,Billing,1,Bengaluru,Morning,5,1156500,11565.0
+2025-03,A3034,Billing,Billing,1,Indore,Morning,9,2672200,26722.0
+2025-03,A3034,Logistics,Billing,1,Indore,Morning,1,449900,4499.0
+2025-03,A3035,Billing,Billing,1,Bengaluru,Day,10,3185300,31853.0
+2025-03,A3036,Returns Desk,Returns Desk,1,Indore,Day,16,4431900,44319.0
+2025-03,A3037,Logistics,Returns Desk,1,Indore,Morning,1,224900,2249.0
+2025-03,A3037,Returns Desk,Returns Desk,1,Indore,Morning,6,1466200,14662.0
+2025-03,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,6,1917000,19170.0
+2025-04,A3001,Email Frontline,Chat Frontline,1,Indore,Night,2,219900,2199.0
+2025-04,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,1,649900,6499.0
+2025-04,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,1,179900,1799.0
+2025-04,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,47500,475.0
+2025-04,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,1,424900,4249.0
+2025-04,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,1,199900,1999.0
+2025-04,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,237400,2374.0
+2025-04,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,179900,1799.0
+2025-04,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,649900,6499.0
+2025-04,A3016,Email Frontline,Email Frontline,1,Indore,Night,1,359800,3598.0
+2025-04,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,539900,5399.0
+2025-04,A3017,Returns Desk,Email Frontline,1,Indore,Night,1,249900,2499.0
+2025-04,A3018,Email Frontline,Email Frontline,1,Indore,Day,3,428800,4288.0
+2025-04,A3020,Billing,Email Frontline,1,Bengaluru,Morning,1,100000,1000.0
+2025-04,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,2,774800,7748.0
+2025-04,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,224900,2249.0
+2025-04,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,3,1644600,16446.0
+2025-04,A3028,Logistics,Logistics,1,Indore,Morning,4,821000,8210.0
+2025-04,A3029,Logistics,Logistics,1,Bengaluru,Morning,1,594900,5949.0
+2025-04,A3030,Logistics,Logistics,1,Indore,Day,4,1393700,13937.0
+2025-04,A3031,Logistics,Logistics,1,Indore,Morning,1,80000,800.0
+2025-04,A3032,Billing,Billing,1,Indore,Morning,1,14400,144.0
+2025-04,A3033,Billing,Billing,1,Bengaluru,Morning,8,2343200,23432.0
+2025-04,A3034,Billing,Billing,1,Indore,Morning,4,1737500,17375.0
+2025-04,A3035,Billing,Billing,1,Bengaluru,Day,7,2854400,28544.0
+2025-04,A3036,Billing,Returns Desk,1,Indore,Day,1,599900,5999.0
+2025-04,A3036,Returns Desk,Returns Desk,1,Indore,Day,10,2335700,23357.0
+2025-04,A3037,Returns Desk,Returns Desk,1,Indore,Morning,5,1544200,15442.0
+2025-04,A3038,Escalations & Warranty,Returns Desk,1,Bengaluru,Morning,1,169900,1699.0
+2025-04,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,7,2335900,23359.0
+2025-04,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,1,552400,5524.0
+2025-04,A3044,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,519900,5199.0
+2025-05,A3001,Email Frontline,Chat Frontline,1,Indore,Night,1,143900,1439.0
+2025-05,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,1,129900,1299.0
+2025-05,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,249900,2499.0
+2025-05,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,1,37500,375.0
+2025-05,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,1137300,11373.0
+2025-05,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,117000,1170.0
+2025-05,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,352800,3528.0
+2025-05,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,490900,4909.0
+2025-05,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,75000,750.0
+2025-05,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,169900,1699.0
+2025-05,A3017,Returns Desk,Email Frontline,1,Indore,Night,1,199900,1999.0
+2025-05,A3018,Email Frontline,Email Frontline,1,Indore,Day,1,569900,5699.0
+2025-05,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,63000,630.0
+2025-05,A3022,Returns Desk,Email Frontline,1,Indore,Morning,1,308700,3087.0
+2025-05,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,2,532300,5323.0
+2025-05,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,6,1170200,11702.0
+2025-05,A3027,Logistics,Logistics,1,Indore,Morning,1,539900,5399.0
+2025-05,A3028,Logistics,Logistics,1,Indore,Morning,3,851800,8518.0
+2025-05,A3029,Logistics,Logistics,1,Bengaluru,Morning,1,12000,120.0
+2025-05,A3030,Logistics,Logistics,1,Indore,Day,7,2099200,20992.0
+2025-05,A3031,Logistics,Logistics,1,Indore,Morning,1,78000,780.0
+2025-05,A3032,Billing,Billing,1,Indore,Morning,5,1139700,11397.0
+2025-05,A3033,Billing,Billing,1,Bengaluru,Morning,3,265300,2653.0
+2025-05,A3034,Billing,Billing,1,Indore,Morning,4,1515100,15151.0
+2025-05,A3035,Billing,Billing,1,Bengaluru,Day,11,3067400,30674.0
+2025-05,A3035,Voice Frontline,Billing,1,Bengaluru,Day,1,699900,6999.0
+2025-05,A3036,Returns Desk,Returns Desk,1,Indore,Day,9,2622600,26226.0
+2025-05,A3037,Returns Desk,Returns Desk,1,Indore,Morning,9,2067700,20677.0
+2025-05,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,4,719800,7198.0
+2025-05,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,1,189900,1899.0
+2025-05,A3043,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,130000,1300.0
+2025-06,A3001,Email Frontline,Chat Frontline,1,Indore,Night,2,1314800,13148.0
+2025-06,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,1,61700,617.0
+2025-06,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,617400,6174.0
+2025-06,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,1,110400,1104.0
+2025-06,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,552400,5524.0
+2025-06,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,1,323800,3238.0
+2025-06,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,127400,1274.0
+2025-06,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,1,149900,1499.0
+2025-06,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,249900,2499.0
+2025-06,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,399800,3998.0
+2025-06,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,379800,3798.0
+2025-06,A3012,Returns Desk,Chat Frontline,1,Bengaluru,Day,1,179900,1799.0
+2025-06,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,297400,2974.0
+2025-06,A3017,Email Frontline,Email Frontline,1,Indore,Night,1,699900,6999.0
+2025-06,A3018,Email Frontline,Email Frontline,1,Indore,Day,3,699700,6997.0
+2025-06,A3020,Billing,Email Frontline,1,Bengaluru,Morning,1,399900,3999.0
+2025-06,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,2,581100,5811.0
+2025-06,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,179900,1799.0
+2025-06,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,130000,1300.0
+2025-06,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,1,20000,200.0
+2025-06,A3027,Logistics,Logistics,1,Indore,Morning,4,992300,9923.0
+2025-06,A3028,Chat Frontline,Logistics,1,Indore,Morning,1,33700,337.0
+2025-06,A3028,Logistics,Logistics,1,Indore,Morning,3,1344700,13447.0
+2025-06,A3029,Logistics,Logistics,1,Bengaluru,Morning,1,212400,2124.0
+2025-06,A3030,Logistics,Logistics,1,Indore,Day,2,1219700,12197.0
+2025-06,A3031,Logistics,Logistics,1,Indore,Morning,2,367300,3673.0
+2025-06,A3032,Billing,Billing,1,Indore,Morning,4,1549600,15496.0
+2025-06,A3032,Returns Desk,Billing,1,Indore,Morning,1,237400,2374.0
+2025-06,A3033,Billing,Billing,1,Bengaluru,Morning,5,1797600,17976.0
+2025-06,A3034,Billing,Billing,1,Indore,Morning,3,579700,5797.0
+2025-06,A3035,Billing,Billing,1,Bengaluru,Day,8,1736400,17364.0
+2025-06,A3036,Returns Desk,Returns Desk,1,Indore,Day,10,3841500,38415.0
+2025-06,A3036,Voice Frontline,Returns Desk,1,Indore,Day,1,152900,1529.0
+2025-06,A3037,Chat Frontline,Returns Desk,1,Indore,Morning,1,134900,1349.0
+2025-06,A3037,Returns Desk,Returns Desk,1,Indore,Morning,5,815200,8152.0
+2025-06,A3038,Billing,Returns Desk,1,Bengaluru,Morning,1,649900,6499.0
+2025-06,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,7,2066900,20669.0
+2025-06,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,169900,1699.0
+2025-06,A3044,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,2,609800,6098.0
+2025-07,A3001,Chat Frontline,Chat Frontline,1,Indore,Night,1,499900,4999.0
+2025-07,A3001,Email Frontline,Chat Frontline,1,Indore,Night,1,19500,195.0
+2025-07,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,2,248600,2486.0
+2025-07,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,721800,7218.0
+2025-07,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,1,212400,2124.0
+2025-07,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,3,629800,6298.0
+2025-07,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,1267200,12672.0
+2025-07,A3010,Returns Desk,Chat Frontline,1,Bengaluru,Morning,1,78000,780.0
+2025-07,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,199900,1999.0
+2025-07,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,4,1515000,15150.0
+2025-07,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,449800,4498.0
+2025-07,A3014,Logistics,Chat Frontline,1,Bengaluru,Day,1,94500,945.0
+2025-07,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,529900,5299.0
+2025-07,A3016,Email Frontline,Email Frontline,1,Indore,Night,2,670400,6704.0
+2025-07,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,237400,2374.0
+2025-07,A3018,Billing,Email Frontline,1,Indore,Day,1,225000,2250.0
+2025-07,A3018,Email Frontline,Email Frontline,1,Indore,Day,1,189900,1899.0
+2025-07,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,449900,4499.0
+2025-07,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,212400,2124.0
+2025-07,A3022,Billing,Email Frontline,1,Indore,Morning,1,349900,3499.0
+2025-07,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,279900,2799.0
+2025-07,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,4,647200,6472.0
+2025-07,A3027,Logistics,Logistics,1,Indore,Morning,4,1765600,17656.0
+2025-07,A3028,Logistics,Logistics,1,Indore,Morning,3,1374700,13747.0
+2025-07,A3029,Chat Frontline,Logistics,1,Bengaluru,Morning,1,664800,6648.0
+2025-07,A3029,Logistics,Logistics,1,Bengaluru,Morning,3,1697200,16972.0
+2025-07,A3030,Logistics,Logistics,1,Indore,Day,12,3857300,38573.0
+2025-07,A3031,Logistics,Logistics,1,Indore,Morning,3,649700,6497.0
+2025-07,A3032,Billing,Billing,1,Indore,Morning,8,1802000,18020.0
+2025-07,A3033,Billing,Billing,1,Bengaluru,Morning,5,1105600,11056.0
+2025-07,A3034,Billing,Billing,1,Indore,Morning,5,2201100,22011.0
+2025-07,A3035,Billing,Billing,1,Bengaluru,Day,14,3593500,35935.0
+2025-07,A3036,Returns Desk,Returns Desk,1,Indore,Day,9,2559100,25591.0
+2025-07,A3037,Email Frontline,Returns Desk,1,Indore,Morning,1,65000,650.0
+2025-07,A3037,Returns Desk,Returns Desk,1,Indore,Morning,4,1752100,17521.0
+2025-07,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,6,730500,7305.0
+2025-07,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,1,249900,2499.0
+2025-07,A3041,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,584900,5849.0
+2025-07,A3044,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,2,1317300,13173.0
+2025-08,A3001,Email Frontline,Chat Frontline,1,Indore,Night,1,629900,6299.0
+2025-08,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,287800,2878.0
+2025-08,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,2,430900,4309.0
+2025-08,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,179900,1799.0
+2025-08,A3006,Returns Desk,Chat Frontline,1,Bengaluru,Morning,1,237400,2374.0
+2025-08,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,3,1043700,10437.0
+2025-08,A3007,Returns Desk,Chat Frontline,1,Indore,Morning,1,349900,3499.0
+2025-08,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,179900,1799.0
+2025-08,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,314900,3149.0
+2025-08,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,649900,6499.0
+2025-08,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,140000,1400.0
+2025-08,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,1009700,10097.0
+2025-08,A3017,Chat Frontline,Email Frontline,1,Indore,Night,3,1161700,11617.0
+2025-08,A3018,Email Frontline,Email Frontline,1,Indore,Day,4,710400,7104.0
+2025-08,A3022,Email Frontline,Email Frontline,1,Indore,Morning,2,532300,5323.0
+2025-08,A3025,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,2,547300,5473.0
+2025-08,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,2,599800,5998.0
+2025-08,A3027,Logistics,Logistics,1,Indore,Morning,1,349900,3499.0
+2025-08,A3028,Logistics,Logistics,1,Indore,Morning,2,529800,5298.0
+2025-08,A3029,Logistics,Logistics,1,Bengaluru,Morning,3,1209700,12097.0
+2025-08,A3030,Logistics,Logistics,1,Indore,Day,11,4223000,42230.0
+2025-08,A3031,Logistics,Logistics,1,Indore,Morning,2,561600,5616.0
+2025-08,A3032,Billing,Billing,1,Indore,Morning,4,567900,5679.0
+2025-08,A3032,Returns Desk,Billing,1,Indore,Morning,1,50000,500.0
+2025-08,A3033,Billing,Billing,1,Bengaluru,Morning,7,2351900,23519.0
+2025-08,A3034,Billing,Billing,1,Indore,Morning,5,978300,9783.0
+2025-08,A3034,Returns Desk,Billing,1,Indore,Morning,1,42000,420.0
+2025-08,A3035,Billing,Billing,1,Bengaluru,Day,12,2681700,26817.0
+2025-08,A3036,Returns Desk,Returns Desk,1,Indore,Day,16,4329900,43299.0
+2025-08,A3037,Returns Desk,Returns Desk,1,Indore,Morning,10,3057200,30572.0
+2025-08,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,13,3924500,39245.0
+2025-08,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,3,1519700,15197.0
+2025-08,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,199900,1999.0
+2025-08,A3041,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,249900,2499.0
+2025-08,A3042,Escalations & Warranty,Escalations & Warranty,2,Indore,Day,1,599900,5999.0
+2025-08,A3044,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,349900,3499.0
+2025-09,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,123400,1234.0
+2025-09,A3003,Voice Frontline,Chat Frontline,1,Indore,Night,2,797300,7973.0
+2025-09,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,160100,1601.0
+2025-09,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,3,718300,7183.0
+2025-09,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,919700,9197.0
+2025-09,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,1,279900,2799.0
+2025-09,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,346600,3466.0
+2025-09,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,1,123400,1234.0
+2025-09,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,329300,3293.0
+2025-09,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,1286500,12865.0
+2025-09,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,297400,2974.0
+2025-09,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,5,1365200,13652.0
+2025-09,A3016,Email Frontline,Email Frontline,1,Indore,Night,2,359800,3598.0
+2025-09,A3017,Returns Desk,Email Frontline,1,Indore,Night,1,279900,2799.0
+2025-09,A3018,Email Frontline,Email Frontline,1,Indore,Day,9,2826200,28262.0
+2025-09,A3020,Billing,Email Frontline,1,Bengaluru,Morning,1,199900,1999.0
+2025-09,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,28000,280.0
+2025-09,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,103900,1039.0
+2025-09,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,2,1189800,11898.0
+2025-09,A3025,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,2,450300,4503.0
+2025-09,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,5,1405100,14051.0
+2025-09,A3027,Logistics,Logistics,1,Indore,Morning,3,1077200,10772.0
+2025-09,A3028,Logistics,Logistics,1,Indore,Morning,6,2046900,20469.0
+2025-09,A3029,Logistics,Logistics,1,Bengaluru,Morning,1,279900,2799.0
+2025-09,A3029,Returns Desk,Logistics,1,Bengaluru,Morning,1,999800,9998.0
+2025-09,A3030,Logistics,Logistics,1,Indore,Day,8,2339400,23394.0
+2025-09,A3031,Logistics,Logistics,1,Indore,Morning,4,1254600,12546.0
+2025-09,A3032,Billing,Billing,1,Indore,Morning,8,1694500,16945.0
+2025-09,A3033,Billing,Billing,1,Bengaluru,Morning,6,1348600,13486.0
+2025-09,A3034,Billing,Billing,1,Indore,Morning,9,1835600,18356.0
+2025-09,A3035,Billing,Billing,1,Bengaluru,Day,16,5154300,51543.0
+2025-09,A3036,Returns Desk,Returns Desk,1,Indore,Day,14,4674700,46747.0
+2025-09,A3037,Billing,Returns Desk,1,Indore,Morning,1,519900,5199.0
+2025-09,A3037,Returns Desk,Returns Desk,1,Indore,Morning,12,2723700,27237.0
+2025-09,A3038,Chat Frontline,Returns Desk,1,Bengaluru,Morning,1,519900,5199.0
+2025-09,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,13,4736300,47363.0
+2025-09,A3039,Chat Frontline,Escalations & Warranty,2,Bengaluru,Morning,1,349900,3499.0
+2025-09,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,5,2464600,24646.0
+2025-09,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,118700,1187.0
+2025-09,A3043,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,499900,4999.0
+2025-10,A3001,Email Frontline,Chat Frontline,1,Indore,Night,3,1209700,12097.0
+2025-10,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,1,55200,552.0
+2025-10,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,424800,4248.0
+2025-10,A3002,Logistics,Chat Frontline,1,Indore,Night,1,699900,6999.0
+2025-10,A3003,Voice Frontline,Chat Frontline,1,Indore,Night,1,449900,4499.0
+2025-10,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,732300,7323.0
+2025-10,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,2,582300,5823.0
+2025-10,A3005,Logistics,Chat Frontline,1,Indore,Day,1,559900,5599.0
+2025-10,A3005,Returns Desk,Chat Frontline,1,Indore,Day,1,339800,3398.0
+2025-10,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,979700,9797.0
+2025-10,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,249900,2499.0
+2025-10,A3009,Billing,Chat Frontline,1,Indore,Day,1,169900,1699.0
+2025-10,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,4,812300,8123.0
+2025-10,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,1333700,13337.0
+2025-10,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,4,1399700,13997.0
+2025-10,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,1077200,10772.0
+2025-10,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,199900,1999.0
+2025-10,A3016,Billing,Email Frontline,1,Indore,Night,1,179900,1799.0
+2025-10,A3016,Chat Frontline,Email Frontline,1,Indore,Night,1,617400,6174.0
+2025-10,A3016,Email Frontline,Email Frontline,1,Indore,Night,1,175000,1750.0
+2025-10,A3017,Chat Frontline,Email Frontline,1,Indore,Night,2,682300,6823.0
+2025-10,A3017,Email Frontline,Email Frontline,1,Indore,Night,2,629800,6298.0
+2025-10,A3017,Logistics,Email Frontline,1,Indore,Night,1,199900,1999.0
+2025-10,A3018,Email Frontline,Email Frontline,1,Indore,Day,7,1389200,13892.0
+2025-10,A3018,Logistics,Email Frontline,1,Indore,Day,1,22500,225.0
+2025-10,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,539900,5399.0
+2025-10,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,212400,2124.0
+2025-10,A3021,Returns Desk,Email Frontline,1,Bengaluru,Morning,1,399900,3999.0
+2025-10,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,599900,5999.0
+2025-10,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,2,1239700,12397.0
+2025-10,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,4,2201500,22015.0
+2025-10,A3027,Logistics,Logistics,1,Indore,Morning,1,349900,3499.0
+2025-10,A3028,Chat Frontline,Logistics,1,Indore,Morning,1,225000,2250.0
+2025-10,A3028,Logistics,Logistics,1,Indore,Morning,2,937300,9373.0
+2025-10,A3029,Logistics,Logistics,1,Bengaluru,Morning,3,767200,7672.0
+2025-10,A3030,Logistics,Logistics,1,Indore,Day,12,2752100,27521.0
+2025-10,A3031,Logistics,Logistics,1,Indore,Morning,2,647300,6473.0
+2025-10,A3032,Billing,Billing,1,Indore,Morning,13,3586900,35869.0
+2025-10,A3032,Chat Frontline,Billing,1,Indore,Morning,1,200000,2000.0
+2025-10,A3032,Logistics,Billing,1,Indore,Morning,1,65000,650.0
+2025-10,A3033,Billing,Billing,1,Bengaluru,Morning,7,2604400,26044.0
+2025-10,A3033,Chat Frontline,Billing,1,Bengaluru,Morning,1,1189800,11898.0
+2025-10,A3033,Returns Desk,Billing,1,Bengaluru,Morning,1,399900,3999.0
+2025-10,A3034,Billing,Billing,1,Indore,Morning,8,1161800,11618.0
+2025-10,A3035,Billing,Billing,1,Bengaluru,Day,28,6869800,68698.0
+2025-10,A3036,Billing,Returns Desk,1,Indore,Day,1,179900,1799.0
+2025-10,A3036,Returns Desk,Returns Desk,1,Indore,Day,21,7117800,71178.0
+2025-10,A3037,Returns Desk,Returns Desk,1,Indore,Morning,6,1665300,16653.0
+2025-10,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,12,3639400,36394.0
+2025-10,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,4,1789600,17896.0
+2025-10,A3039,Voice Frontline,Escalations & Warranty,2,Bengaluru,Morning,1,699900,6999.0
+2025-10,A3042,Escalations & Warranty,Escalations & Warranty,2,Indore,Day,1,350000,3500.0
+2025-11,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,474900,4749.0
+2025-11,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,3,1077700,10777.0
+2025-11,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,2,728700,7287.0
+2025-11,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,599900,5999.0
+2025-11,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,1,649900,6499.0
+2025-11,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,1114800,11148.0
+2025-11,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,1488200,14882.0
+2025-11,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,827200,8272.0
+2025-11,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,735700,7357.0
+2025-11,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,249900,2499.0
+2025-11,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,872300,8723.0
+2025-11,A3016,Email Frontline,Email Frontline,1,Indore,Night,2,2099600,20996.0
+2025-11,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,279900,2799.0
+2025-11,A3018,Email Frontline,Email Frontline,1,Indore,Day,8,1623500,16235.0
+2025-11,A3019,Email Frontline,Email Frontline,1,Indore,Morning,1,314900,3149.0
+2025-11,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,100000,1000.0
+2025-11,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,249900,2499.0
+2025-11,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,2,402400,4024.0
+2025-11,A3025,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,21200,212.0
+2025-11,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,3,926800,9268.0
+2025-11,A3027,Logistics,Logistics,1,Indore,Morning,3,2167100,21671.0
+2025-11,A3028,Escalations & Warranty,Logistics,1,Indore,Morning,1,129900,1299.0
+2025-11,A3028,Logistics,Logistics,1,Indore,Morning,2,281400,2814.0
+2025-11,A3029,Logistics,Logistics,1,Bengaluru,Morning,5,1332200,13322.0
+2025-11,A3030,Logistics,Logistics,1,Indore,Day,21,6324100,63241.0
+2025-11,A3030,Returns Desk,Logistics,1,Indore,Day,1,649900,6499.0
+2025-11,A3031,Logistics,Logistics,1,Indore,Morning,2,356300,3563.0
+2025-11,A3032,Billing,Billing,1,Indore,Morning,8,3534200,35342.0
+2025-11,A3033,Billing,Billing,1,Bengaluru,Morning,13,3901500,39015.0
+2025-11,A3034,Billing,Billing,1,Indore,Morning,9,2255500,22555.0
+2025-11,A3035,Billing,Billing,1,Bengaluru,Day,17,4293500,42935.0
+2025-11,A3036,Returns Desk,Returns Desk,1,Indore,Day,24,8116000,81160.0
+2025-11,A3037,Returns Desk,Returns Desk,1,Indore,Morning,16,2617300,26173.0
+2025-11,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,12,3607300,36073.0
+2025-11,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,4,1517100,15171.0
+2025-11,A3041,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,143900,1439.0
+2025-11,A3042,Escalations & Warranty,Escalations & Warranty,2,Indore,Day,3,916400,9164.0
+2025-11,A3044,Email Frontline,Escalations & Warranty,2,Bengaluru,Day,1,617400,6174.0
+2025-12,A3001,Returns Desk,Chat Frontline,1,Indore,Night,1,63000,630.0
+2025-12,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,2,1329800,13298.0
+2025-12,A3002,Email Frontline,Chat Frontline,1,Indore,Night,2,997300,9973.0
+2025-12,A3002,Voice Frontline,Chat Frontline,1,Indore,Night,1,629900,6299.0
+2025-12,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,1,629900,6299.0
+2025-12,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,1,56000,560.0
+2025-12,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,439400,4394.0
+2025-12,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,3,1332200,13322.0
+2025-12,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,649900,6499.0
+2025-12,A3009,Billing,Chat Frontline,1,Indore,Day,1,170900,1709.0
+2025-12,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,1,279900,2799.0
+2025-12,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,329900,3299.0
+2025-12,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,199900,1999.0
+2025-12,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,599800,5998.0
+2025-12,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,279900,2799.0
+2025-12,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,4,1135700,11357.0
+2025-12,A3015,Escalations & Warranty,Chat Frontline,1,Bengaluru,Day,1,349900,3499.0
+2025-12,A3016,Chat Frontline,Email Frontline,1,Indore,Night,1,52500,525.0
+2025-12,A3017,Email Frontline,Email Frontline,1,Indore,Night,1,47200,472.0
+2025-12,A3018,Email Frontline,Email Frontline,1,Indore,Day,6,2337500,23375.0
+2025-12,A3019,Email Frontline,Email Frontline,1,Indore,Morning,3,402400,4024.0
+2025-12,A3021,Chat Frontline,Email Frontline,1,Bengaluru,Morning,1,617400,6174.0
+2025-12,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,2,944800,9448.0
+2025-12,A3022,Email Frontline,Email Frontline,1,Indore,Morning,3,711500,7115.0
+2025-12,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,110500,1105.0
+2025-12,A3025,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,249900,2499.0
+2025-12,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,9,2369000,23690.0
+2025-12,A3027,Logistics,Logistics,1,Indore,Morning,2,332400,3324.0
+2025-12,A3027,Returns Desk,Logistics,1,Indore,Morning,1,349900,3499.0
+2025-12,A3028,Logistics,Logistics,1,Indore,Morning,5,1952100,19521.0
+2025-12,A3029,Logistics,Logistics,1,Bengaluru,Morning,3,1006200,10062.0
+2025-12,A3030,Logistics,Logistics,1,Indore,Day,8,1445900,14459.0
+2025-12,A3031,Billing,Logistics,1,Indore,Morning,1,349900,3499.0
+2025-12,A3031,Logistics,Logistics,1,Indore,Morning,3,826700,8267.0
+2025-12,A3031,Returns Desk,Logistics,1,Indore,Morning,2,232400,2324.0
+2025-12,A3032,Billing,Billing,1,Indore,Morning,9,2783900,27839.0
+2025-12,A3033,Billing,Billing,1,Bengaluru,Morning,9,2010200,20102.0
+2025-12,A3033,Logistics,Billing,1,Bengaluru,Morning,1,35000,350.0
+2025-12,A3034,Billing,Billing,1,Indore,Morning,5,1398000,13980.0
+2025-12,A3035,Billing,Billing,1,Bengaluru,Day,19,5701000,57010.0
+2025-12,A3036,Returns Desk,Returns Desk,1,Indore,Day,18,4709600,47096.0
+2025-12,A3037,Returns Desk,Returns Desk,1,Indore,Morning,13,2324800,23248.0
+2025-12,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,14,4421600,44216.0
+2025-12,A3039,Chat Frontline,Escalations & Warranty,2,Bengaluru,Morning,1,199900,1999.0
+2025-12,A3043,Chat Frontline,Escalations & Warranty,2,Bengaluru,Day,1,199900,1999.0
+2026-01,A3001,Email Frontline,Chat Frontline,1,Indore,Night,1,552400,5524.0
+2026-01,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,519900,5199.0
+2026-01,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,2,492300,4923.0
+2026-01,A3003,Email Frontline,Chat Frontline,1,Indore,Night,2,479800,4798.0
+2026-01,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,529800,5298.0
+2026-01,A3004,Returns Desk,Chat Frontline,1,Bengaluru,Day,1,519900,5199.0
+2026-01,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,1,199900,1999.0
+2026-01,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,349900,3499.0
+2026-01,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,3,1014700,10147.0
+2026-01,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,4,719800,7198.0
+2026-01,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,4,1072200,10722.0
+2026-01,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,70000,700.0
+2026-01,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,1329700,13297.0
+2026-01,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,366900,3669.0
+2026-01,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,4,1166500,11665.0
+2026-01,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,129900,1299.0
+2026-01,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,297400,2974.0
+2026-01,A3016,Email Frontline,Email Frontline,1,Indore,Night,3,402900,4029.0
+2026-01,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,179900,1799.0
+2026-01,A3017,Email Frontline,Email Frontline,1,Indore,Night,1,559900,5599.0
+2026-01,A3018,Email Frontline,Email Frontline,1,Indore,Day,9,1999100,19991.0
+2026-01,A3021,Voice Frontline,Email Frontline,1,Bengaluru,Morning,1,169900,1699.0
+2026-01,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,349900,3499.0
+2026-01,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,5,1759600,17596.0
+2026-01,A3027,Logistics,Logistics,1,Indore,Morning,4,897200,8972.0
+2026-01,A3028,Logistics,Logistics,1,Indore,Morning,4,1297000,12970.0
+2026-01,A3029,Email Frontline,Logistics,1,Bengaluru,Morning,1,1259800,12598.0
+2026-01,A3029,Logistics,Logistics,1,Bengaluru,Morning,2,449800,4498.0
+2026-01,A3030,Logistics,Logistics,1,Indore,Day,6,1885000,18850.0
+2026-01,A3031,Logistics,Logistics,1,Indore,Morning,2,799800,7998.0
+2026-01,A3032,Billing,Billing,1,Indore,Morning,8,4156700,41567.0
+2026-01,A3033,Billing,Billing,1,Bengaluru,Morning,8,1365500,13655.0
+2026-01,A3034,Billing,Billing,1,Indore,Morning,9,2343900,23439.0
+2026-01,A3035,Billing,Billing,1,Bengaluru,Day,14,3393300,33933.0
+2026-01,A3036,Returns Desk,Returns Desk,1,Indore,Day,17,6060600,60606.0
+2026-01,A3037,Returns Desk,Returns Desk,1,Indore,Morning,7,1684900,16849.0
+2026-01,A3038,Email Frontline,Returns Desk,1,Bengaluru,Morning,1,28000,280.0
+2026-01,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,10,2920500,29205.0
+2026-01,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,2,964800,9648.0
+2026-01,A3042,Escalations & Warranty,Escalations & Warranty,2,Indore,Day,2,143900,1439.0
+2026-01,A3043,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,103900,1039.0
+2026-02,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,1,349900,3499.0
+2026-02,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,1,349900,3499.0
+2026-02,A3003,Email Frontline,Chat Frontline,1,Indore,Night,1,42000,420.0
+2026-02,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,3,546300,5463.0
+2026-02,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,4,977900,9779.0
+2026-02,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,1,58500,585.0
+2026-02,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,689300,6893.0
+2026-02,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,349900,3499.0
+2026-02,A3016,Chat Frontline,Email Frontline,1,Indore,Night,1,314900,3149.0
+2026-02,A3016,Email Frontline,Email Frontline,1,Indore,Night,1,161900,1619.0
+2026-02,A3017,Billing,Email Frontline,1,Indore,Night,1,65000,650.0
+2026-02,A3017,Email Frontline,Email Frontline,1,Indore,Night,1,212400,2124.0
+2026-02,A3018,Email Frontline,Email Frontline,1,Indore,Day,6,2291900,22919.0
+2026-02,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,279900,2799.0
+2026-02,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,649900,6499.0
+2026-02,A3021,Logistics,Email Frontline,1,Bengaluru,Morning,1,349900,3499.0
+2026-02,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,31900,319.0
+2026-02,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,399900,3999.0
+2026-02,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,4,752900,7529.0
+2026-02,A3027,Logistics,Logistics,1,Indore,Morning,4,1932000,19320.0
+2026-02,A3028,Logistics,Logistics,1,Indore,Morning,3,592300,5923.0
+2026-02,A3028,Returns Desk,Logistics,1,Indore,Morning,1,161900,1619.0
+2026-02,A3029,Billing,Logistics,1,Bengaluru,Morning,1,31900,319.0
+2026-02,A3029,Logistics,Logistics,1,Bengaluru,Morning,3,390400,3904.0
+2026-02,A3030,Logistics,Logistics,1,Indore,Day,6,1522000,15220.0
+2026-02,A3031,Logistics,Logistics,1,Indore,Morning,2,529800,5298.0
+2026-02,A3032,Billing,Billing,1,Indore,Morning,10,2271300,22713.0
+2026-02,A3033,Billing,Billing,1,Bengaluru,Morning,8,2451200,24512.0
+2026-02,A3034,Billing,Billing,1,Indore,Morning,7,1180200,11802.0
+2026-02,A3035,Billing,Billing,1,Bengaluru,Day,13,4092900,40929.0
+2026-02,A3036,Chat Frontline,Returns Desk,1,Indore,Day,1,161900,1619.0
+2026-02,A3036,Returns Desk,Returns Desk,1,Indore,Day,16,4492400,44924.0
+2026-02,A3037,Returns Desk,Returns Desk,1,Indore,Morning,9,2575800,25758.0
+2026-02,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,17,4502900,45029.0
+2026-02,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,2,671800,6718.0
+2026-02,A3041,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,249900,2499.0
+2026-02,A3042,Escalations & Warranty,Escalations & Warranty,2,Indore,Day,1,594900,5949.0
+2026-03,A3001,Chat Frontline,Chat Frontline,1,Indore,Night,2,827300,8273.0
+2026-03,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,284800,2848.0
+2026-03,A3002,Returns Desk,Chat Frontline,1,Indore,Night,1,15600,156.0
+2026-03,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,4,705700,7057.0
+2026-03,A3003,Email Frontline,Chat Frontline,1,Indore,Night,1,179900,1799.0
+2026-03,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,349900,3499.0
+2026-03,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,2,689800,6898.0
+2026-03,A3005,Returns Desk,Chat Frontline,1,Indore,Day,1,119900,1199.0
+2026-03,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,4,899200,8992.0
+2026-03,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,2,619900,6199.0
+2026-03,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,2,552300,5523.0
+2026-03,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,652500,6525.0
+2026-03,A3010,Voice Frontline,Chat Frontline,1,Bengaluru,Morning,1,224900,2249.0
+2026-03,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,612300,6123.0
+2026-03,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,669800,6698.0
+2026-03,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,1170600,11706.0
+2026-03,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,42500,425.0
+2026-03,A3015,Email Frontline,Chat Frontline,1,Bengaluru,Day,1,90000,900.0
+2026-03,A3016,Chat Frontline,Email Frontline,1,Indore,Night,1,199900,1999.0
+2026-03,A3016,Email Frontline,Email Frontline,1,Indore,Night,4,809600,8096.0
+2026-03,A3016,Returns Desk,Email Frontline,1,Indore,Night,1,45000,450.0
+2026-03,A3017,Chat Frontline,Email Frontline,1,Indore,Night,1,129900,1299.0
+2026-03,A3018,Billing,Email Frontline,1,Indore,Day,1,65000,650.0
+2026-03,A3018,Email Frontline,Email Frontline,1,Indore,Day,5,790100,7901.0
+2026-03,A3019,Email Frontline,Email Frontline,1,Indore,Morning,2,231900,2319.0
+2026-03,A3019,Returns Desk,Email Frontline,1,Indore,Morning,1,314900,3149.0
+2026-03,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,10400,104.0
+2026-03,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,52500,525.0
+2026-03,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,2,462300,4623.0
+2026-03,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,3,653200,6532.0
+2026-03,A3027,Logistics,Logistics,1,Indore,Morning,2,509800,5098.0
+2026-03,A3028,Logistics,Logistics,1,Indore,Morning,2,599800,5998.0
+2026-03,A3029,Logistics,Logistics,1,Bengaluru,Morning,4,1752100,17521.0
+2026-03,A3030,Logistics,Logistics,1,Indore,Day,14,4745600,47456.0
+2026-03,A3031,Billing,Logistics,1,Indore,Morning,1,28000,280.0
+2026-03,A3031,Logistics,Logistics,1,Indore,Morning,6,1462300,14623.0
+2026-03,A3031,Returns Desk,Logistics,1,Indore,Morning,1,332400,3324.0
+2026-03,A3032,Billing,Billing,1,Indore,Morning,3,420400,4204.0
+2026-03,A3033,Billing,Billing,1,Bengaluru,Morning,6,1576300,15763.0
+2026-03,A3033,Returns Desk,Billing,1,Bengaluru,Morning,1,332400,3324.0
+2026-03,A3034,Billing,Billing,1,Indore,Morning,5,1303500,13035.0
+2026-03,A3035,Billing,Billing,1,Bengaluru,Day,20,5216400,52164.0
+2026-03,A3036,Email Frontline,Returns Desk,1,Indore,Day,1,224900,2249.0
+2026-03,A3036,Returns Desk,Returns Desk,1,Indore,Day,9,1622600,16226.0
+2026-03,A3037,Returns Desk,Returns Desk,1,Indore,Morning,12,4104300,41043.0
+2026-03,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,13,3525300,35253.0
+2026-03,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,4,1629500,16295.0
+2026-03,A3040,Chat Frontline,Escalations & Warranty,2,Bengaluru,Day,1,152900,1529.0
+2026-03,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,332400,3324.0
+2026-03,A3041,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,1234800,12348.0
+2026-04,A3001,Email Frontline,Chat Frontline,1,Indore,Night,1,629800,6298.0
+2026-04,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,279900,2799.0
+2026-04,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,2,664800,6648.0
+2026-04,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,152900,1529.0
+2026-04,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,212400,2124.0
+2026-04,A3006,Returns Desk,Chat Frontline,1,Bengaluru,Morning,1,34000,340.0
+2026-04,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,4,1067200,10672.0
+2026-04,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,314900,3149.0
+2026-04,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,249900,2499.0
+2026-04,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,979800,9798.0
+2026-04,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,165000,1650.0
+2026-04,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,249900,2499.0
+2026-04,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,824700,8247.0
+2026-04,A3017,Billing,Email Frontline,1,Indore,Night,1,179900,1799.0
+2026-04,A3017,Email Frontline,Email Frontline,1,Indore,Night,1,349900,3499.0
+2026-04,A3018,Email Frontline,Email Frontline,1,Indore,Day,5,2071900,20719.0
+2026-04,A3020,Billing,Email Frontline,1,Bengaluru,Morning,1,8000,80.0
+2026-04,A3020,Email Frontline,Email Frontline,1,Bengaluru,Morning,1,14400,144.0
+2026-04,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,2,407300,4073.0
+2026-04,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,314900,3149.0
+2026-04,A3025,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,314900,3149.0
+2026-04,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,5,1049600,10496.0
+2026-04,A3027,Logistics,Logistics,1,Indore,Morning,5,1530000,15300.0
+2026-04,A3028,Logistics,Logistics,1,Indore,Morning,3,899800,8998.0
+2026-04,A3029,Logistics,Logistics,1,Bengaluru,Morning,1,129900,1299.0
+2026-04,A3029,Returns Desk,Logistics,1,Bengaluru,Morning,1,63000,630.0
+2026-04,A3030,Logistics,Logistics,1,Indore,Day,10,3133200,31332.0
+2026-04,A3031,Chat Frontline,Logistics,1,Indore,Morning,1,125000,1250.0
+2026-04,A3031,Logistics,Logistics,1,Indore,Morning,2,899800,8998.0
+2026-04,A3031,Returns Desk,Logistics,1,Indore,Morning,1,18000,180.0
+2026-04,A3032,Billing,Billing,1,Indore,Morning,8,2036800,20368.0
+2026-04,A3032,Chat Frontline,Billing,1,Indore,Morning,1,279900,2799.0
+2026-04,A3032,Email Frontline,Billing,1,Indore,Morning,1,29700,297.0
+2026-04,A3033,Billing,Billing,1,Bengaluru,Morning,4,1329600,13296.0
+2026-04,A3034,Billing,Billing,1,Indore,Morning,8,2268800,22688.0
+2026-04,A3035,Billing,Billing,1,Bengaluru,Day,12,1884000,18840.0
+2026-04,A3036,Logistics,Returns Desk,1,Indore,Day,1,349900,3499.0
+2026-04,A3036,Returns Desk,Returns Desk,1,Indore,Day,22,5953200,59532.0
+2026-04,A3037,Logistics,Returns Desk,1,Indore,Morning,1,599900,5999.0
+2026-04,A3037,Returns Desk,Returns Desk,1,Indore,Morning,15,3540100,35401.0
+2026-04,A3038,Billing,Returns Desk,1,Bengaluru,Morning,1,349900,3499.0
+2026-04,A3038,Chat Frontline,Returns Desk,1,Bengaluru,Morning,1,629900,6299.0
+2026-04,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,11,2812900,28129.0
+2026-04,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,2,559800,5598.0
+2026-04,A3039,Voice Frontline,Escalations & Warranty,2,Bengaluru,Morning,1,37500,375.0
+2026-04,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,129900,1299.0
+2026-04,A3041,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,100000,1000.0
+2026-05,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,2,619700,6197.0
+2026-05,A3002,Email Frontline,Chat Frontline,1,Indore,Night,2,35700,357.0
+2026-05,A3003,Returns Desk,Chat Frontline,1,Indore,Night,1,212400,2124.0
+2026-05,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,484900,4849.0
+2026-05,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,2,947300,9473.0
+2026-05,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,611800,6118.0
+2026-05,A3006,Email Frontline,Chat Frontline,1,Bengaluru,Morning,1,55200,552.0
+2026-05,A3007,Chat Frontline,Chat Frontline,1,Indore,Morning,1,552400,5524.0
+2026-05,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,799800,7998.0
+2026-05,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,1,699900,6999.0
+2026-05,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,3,1347200,13472.0
+2026-05,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,884800,8848.0
+2026-05,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,649900,6499.0
+2026-05,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,449900,4499.0
+2026-05,A3014,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,349900,3499.0
+2026-05,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,2,1019800,10198.0
+2026-05,A3016,Chat Frontline,Email Frontline,1,Indore,Night,1,297400,2974.0
+2026-05,A3016,Email Frontline,Email Frontline,1,Indore,Night,1,699800,6998.0
+2026-05,A3017,Chat Frontline,Email Frontline,1,Indore,Night,2,424800,4248.0
+2026-05,A3018,Billing,Email Frontline,1,Indore,Day,1,157400,1574.0
+2026-05,A3018,Email Frontline,Email Frontline,1,Indore,Day,3,535100,5351.0
+2026-05,A3019,Logistics,Email Frontline,1,Indore,Morning,1,249900,2499.0
+2026-05,A3020,Returns Desk,Email Frontline,1,Bengaluru,Morning,2,420000,4200.0
+2026-05,A3023,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,143900,1439.0
+2026-05,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,332400,3324.0
+2026-05,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,3,1714700,17147.0
+2026-05,A3027,Billing,Logistics,1,Indore,Morning,1,349900,3499.0
+2026-05,A3027,Logistics,Logistics,1,Indore,Morning,2,769800,7698.0
+2026-05,A3028,Chat Frontline,Logistics,1,Indore,Morning,1,166200,1662.0
+2026-05,A3028,Logistics,Logistics,1,Indore,Morning,3,405600,4056.0
+2026-05,A3030,Logistics,Logistics,1,Indore,Day,14,4888300,48883.0
+2026-05,A3031,Logistics,Logistics,1,Indore,Morning,1,617400,6174.0
+2026-05,A3032,Billing,Billing,1,Indore,Morning,6,1384100,13841.0
+2026-05,A3032,Returns Desk,Billing,1,Indore,Morning,1,314900,3149.0
+2026-05,A3033,Billing,Billing,1,Bengaluru,Morning,5,1284600,12846.0
+2026-05,A3034,Billing,Billing,1,Indore,Morning,10,1726100,17261.0
+2026-05,A3035,Billing,Billing,1,Bengaluru,Day,11,2818200,28182.0
+2026-05,A3035,Chat Frontline,Billing,1,Bengaluru,Day,1,249900,2499.0
+2026-05,A3036,Escalations & Warranty,Returns Desk,1,Indore,Day,1,199900,1999.0
+2026-05,A3036,Returns Desk,Returns Desk,1,Indore,Day,22,5361400,53614.0
+2026-05,A3037,Returns Desk,Returns Desk,1,Indore,Morning,16,3478300,34783.0
+2026-05,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,5,1487000,14870.0
+2026-05,A3039,Email Frontline,Escalations & Warranty,2,Bengaluru,Morning,1,279900,2799.0
+2026-05,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,3,1269600,12696.0
+2026-05,A3040,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,249900,2499.0
+2026-05,A3043,Voice Frontline,Escalations & Warranty,2,Bengaluru,Day,1,116900,1169.0
+2026-05,A3044,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,559800,5598.0
+2026-06,A3001,Email Frontline,Chat Frontline,1,Indore,Night,5,1531500,15315.0
+2026-06,A3002,Chat Frontline,Chat Frontline,1,Indore,Night,1,617400,6174.0
+2026-06,A3002,Email Frontline,Chat Frontline,1,Indore,Night,1,314900,3149.0
+2026-06,A3003,Chat Frontline,Chat Frontline,1,Indore,Night,4,467700,4677.0
+2026-06,A3003,Email Frontline,Chat Frontline,1,Indore,Night,1,116900,1169.0
+2026-06,A3003,Voice Frontline,Chat Frontline,1,Indore,Night,1,170900,1709.0
+2026-06,A3004,Chat Frontline,Chat Frontline,1,Bengaluru,Day,1,70000,700.0
+2026-06,A3005,Chat Frontline,Chat Frontline,1,Indore,Day,3,1129700,11297.0
+2026-06,A3005,Voice Frontline,Chat Frontline,1,Indore,Day,1,58500,585.0
+2026-06,A3006,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,4,742700,7427.0
+2026-06,A3008,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,844700,8447.0
+2026-06,A3009,Billing,Chat Frontline,1,Indore,Day,1,25600,256.0
+2026-06,A3009,Chat Frontline,Chat Frontline,1,Indore,Day,2,947300,9473.0
+2026-06,A3009,Voice Frontline,Chat Frontline,1,Indore,Day,1,199900,1999.0
+2026-06,A3010,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,2,852800,8528.0
+2026-06,A3011,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,297400,2974.0
+2026-06,A3012,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,1059700,10597.0
+2026-06,A3013,Billing,Chat Frontline,1,Bengaluru,Morning,1,499900,4999.0
+2026-06,A3013,Chat Frontline,Chat Frontline,1,Bengaluru,Morning,1,332400,3324.0
+2026-06,A3015,Chat Frontline,Chat Frontline,1,Bengaluru,Day,3,979700,9797.0
+2026-06,A3016,Billing,Email Frontline,1,Indore,Night,1,25000,250.0
+2026-06,A3016,Voice Frontline,Email Frontline,1,Indore,Night,1,100000,1000.0
+2026-06,A3017,Email Frontline,Email Frontline,1,Indore,Night,2,233800,2338.0
+2026-06,A3018,Email Frontline,Email Frontline,1,Indore,Day,6,1929400,19294.0
+2026-06,A3021,Email Frontline,Email Frontline,1,Bengaluru,Morning,3,1027800,10278.0
+2026-06,A3022,Chat Frontline,Email Frontline,1,Indore,Morning,1,129900,1299.0
+2026-06,A3022,Email Frontline,Email Frontline,1,Indore,Morning,1,29700,297.0
+2026-06,A3024,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,3,1112200,11122.0
+2026-06,A3025,Voice Frontline,Voice Frontline,1,Bengaluru,Morning,1,33200,332.0
+2026-06,A3026,Voice Frontline,Voice Frontline,1,Bengaluru,Day,3,799700,7997.0
+2026-06,A3027,Logistics,Logistics,1,Indore,Morning,2,944800,9448.0
+2026-06,A3028,Logistics,Logistics,1,Indore,Morning,4,2121100,21211.0
+2026-06,A3029,Billing,Logistics,1,Bengaluru,Morning,1,249900,2499.0
+2026-06,A3029,Logistics,Logistics,1,Bengaluru,Morning,3,1199700,11997.0
+2026-06,A3030,Logistics,Logistics,1,Indore,Day,14,2586800,25868.0
+2026-06,A3031,Logistics,Logistics,1,Indore,Morning,4,684300,6843.0
+2026-06,A3032,Billing,Billing,1,Indore,Morning,8,1745000,17450.0
+2026-06,A3032,Logistics,Billing,1,Indore,Morning,1,33200,332.0
+2026-06,A3033,Billing,Billing,1,Bengaluru,Morning,6,1562100,15621.0
+2026-06,A3034,Billing,Billing,1,Indore,Morning,7,1993300,19933.0
+2026-06,A3035,Billing,Billing,1,Bengaluru,Day,15,3227400,32274.0
+2026-06,A3036,Returns Desk,Returns Desk,1,Indore,Day,14,4059500,40595.0
+2026-06,A3037,Returns Desk,Returns Desk,1,Indore,Morning,15,4034300,40343.0
+2026-06,A3038,Returns Desk,Returns Desk,1,Bengaluru,Morning,9,1859900,18599.0
+2026-06,A3039,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Morning,3,1649700,16497.0
+2026-06,A3041,Escalations & Warranty,Escalations & Warranty,2,Bengaluru,Day,1,279900,2799.0
+2026-06,A3044,Chat Frontline,Escalations & Warranty,2,Bengaluru,Day,1,170900,1709.0

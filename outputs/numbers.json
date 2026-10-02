@@ -1,0 +1,428 @@
+{
+  "period": {
+    "first_quarter": "2025Q1",
+    "last_quarter": "2026Q2",
+    "quarters": 6
+  },
+  "data": {
+    "raw_rows": 12238,
+    "unique_tickets": 11600,
+    "duplicates_removed": 638,
+    "duplicates_with_amount": 125,
+    "duplicate_amount_conflicts": 0,
+    "refund_tickets": 2340,
+    "excluded_non_refund": 9260,
+    "quarantined": 0
+  },
+  "canonical": {
+    "paise": 670993200,
+    "inr": 6709932.0,
+    "lakh": 67.09932,
+    "avg_per_quarter_inr": 1118322.0,
+    "avg_per_quarter_lakh": 11.18
+  },
+  "raw_export": {
+    "naive_sum_inr": 230124081.0,
+    "crore": 23.0124081,
+    "avg_per_quarter_inr": 38354013.5,
+    "avg_per_quarter_crore": 3.84
+  },
+  "reconciliation": {
+    "residual_inr": 0.0,
+    "lines": [
+      {
+        "step": "Raw export read as rupees (naive sum)",
+        "rule_id": "raw_sum",
+        "rows_with_amount": 2465,
+        "amount_inr": 230124081.0
+      },
+      {
+        "step": "Quarantined rows removed",
+        "rule_id": "validation_failure",
+        "rows_with_amount": 0,
+        "amount_inr": 0.0
+      },
+      {
+        "step": "Legacy_fd amounts rescaled from paise to rupees",
+        "rule_id": "legacy_fd_div_100",
+        "rows_with_amount": 775,
+        "amount_inr": -223053138.0
+      },
+      {
+        "step": "Duplicate rows removed",
+        "rule_id": "exact_ticket_id_dedup",
+        "rows_with_amount": 125,
+        "amount_inr": -361011.0
+      },
+      {
+        "step": "Canonical refund total (ledger)",
+        "rule_id": "ledger_sum",
+        "rows_with_amount": 2340,
+        "amount_inr": 6709932.0
+      },
+      {
+        "step": "Unexplained residual (computed)",
+        "rule_id": "residual",
+        "rows_with_amount": 0,
+        "amount_inr": 0.0
+      }
+    ]
+  },
+  "reported_figures": {
+    "finance": {
+      "stated": "well over a crore a quarter",
+      "raw_avg_per_quarter_crore": 3.84,
+      "quarters_above_one_crore": 3,
+      "quarters_above_one_crore_list": [
+        "2025Q1",
+        "2025Q2",
+        "2025Q3"
+      ],
+      "first_quarter_below_one_crore": "2025Q4"
+    },
+    "helpdesk": {
+      "stated": "around Rs 11 lakh a quarter",
+      "canonical_avg_per_quarter_lakh": 11.18,
+      "difference_pct": 1.7
+    }
+  },
+  "quarterly": [
+    {
+      "quarter": "2025Q1",
+      "tickets_total": 1053,
+      "refund_tickets": 212,
+      "refund_rate": 0.2013,
+      "avg_refund_inr": 2875.39,
+      "canonical_inr": 609583.0,
+      "raw_export_inr": 61049992.0
+    },
+    {
+      "quarter": "2025Q2",
+      "tickets_total": 1388,
+      "refund_tickets": 253,
+      "refund_rate": 0.1823,
+      "avg_refund_inr": 2875.19,
+      "canonical_inr": 727422.0,
+      "raw_export_inr": 72879635.0
+    },
+    {
+      "quarter": "2025Q3",
+      "tickets_total": 1843,
+      "refund_tickets": 405,
+      "refund_rate": 0.2198,
+      "avg_refund_inr": 2980.47,
+      "canonical_inr": 1207091.0,
+      "raw_export_inr": 92028618.0
+    },
+    {
+      "quarter": "2025Q4",
+      "tickets_total": 2678,
+      "refund_tickets": 542,
+      "refund_rate": 0.2024,
+      "avg_refund_inr": 3002.91,
+      "canonical_inr": 1627575.0,
+      "raw_export_inr": 1627575.0
+    },
+    {
+      "quarter": "2026Q1",
+      "tickets_total": 2361,
+      "refund_tickets": 455,
+      "refund_rate": 0.1927,
+      "avg_refund_inr": 2765.8,
+      "canonical_inr": 1258438.0,
+      "raw_export_inr": 1258438.0
+    },
+    {
+      "quarter": "2026Q2",
+      "tickets_total": 2277,
+      "refund_tickets": 473,
+      "refund_rate": 0.2077,
+      "avg_refund_inr": 2705.76,
+      "canonical_inr": 1279823.0,
+      "raw_export_inr": 1279823.0
+    }
+  ],
+  "monthly": [
+    {
+      "month": "2025-01",
+      "tickets_total": 302,
+      "refund_tickets": 58,
+      "refund_rate": 0.1921,
+      "refund_inr": 141048.0
+    },
+    {
+      "month": "2025-02",
+      "tickets_total": 324,
+      "refund_tickets": 63,
+      "refund_rate": 0.1944,
+      "refund_inr": 177938.0
+    },
+    {
+      "month": "2025-03",
+      "tickets_total": 427,
+      "refund_tickets": 91,
+      "refund_rate": 0.2131,
+      "refund_inr": 290597.0
+    },
+    {
+      "month": "2025-04",
+      "tickets_total": 452,
+      "refund_tickets": 79,
+      "refund_rate": 0.1748,
+      "refund_inr": 250089.0
+    },
+    {
+      "month": "2025-05",
+      "tickets_total": 489,
+      "refund_tickets": 86,
+      "refund_rate": 0.1759,
+      "refund_inr": 217464.0
+    },
+    {
+      "month": "2025-06",
+      "tickets_total": 447,
+      "refund_tickets": 88,
+      "refund_rate": 0.1969,
+      "refund_inr": 259869.0
+    },
+    {
+      "month": "2025-07",
+      "tickets_total": 522,
+      "refund_tickets": 119,
+      "refund_rate": 0.228,
+      "refund_inr": 356986.0
+    },
+    {
+      "month": "2025-08",
+      "tickets_total": 590,
+      "refund_tickets": 125,
+      "refund_rate": 0.2119,
+      "refund_inr": 367821.0
+    },
+    {
+      "month": "2025-09",
+      "tickets_total": 731,
+      "refund_tickets": 161,
+      "refund_rate": 0.2202,
+      "refund_inr": 482284.0
+    },
+    {
+      "month": "2025-10",
+      "tickets_total": 870,
+      "refund_tickets": 185,
+      "refund_rate": 0.2126,
+      "refund_inr": 575637.0
+    },
+    {
+      "month": "2025-11",
+      "tickets_total": 948,
+      "refund_tickets": 186,
+      "refund_rate": 0.1962,
+      "refund_inr": 575984.0
+    },
+    {
+      "month": "2025-12",
+      "tickets_total": 860,
+      "refund_tickets": 171,
+      "refund_rate": 0.1988,
+      "refund_inr": 475954.0
+    },
+    {
+      "month": "2026-01",
+      "tickets_total": 762,
+      "refund_tickets": 153,
+      "refund_rate": 0.2008,
+      "refund_inr": 449868.0
+    },
+    {
+      "month": "2026-02",
+      "tickets_total": 765,
+      "refund_tickets": 139,
+      "refund_rate": 0.1817,
+      "refund_inr": 372797.0
+    },
+    {
+      "month": "2026-03",
+      "tickets_total": 834,
+      "refund_tickets": 163,
+      "refund_rate": 0.1954,
+      "refund_inr": 435773.0
+    },
+    {
+      "month": "2026-04",
+      "tickets_total": 720,
+      "refund_tickets": 154,
+      "refund_rate": 0.2139,
+      "refund_inr": 402265.0
+    },
+    {
+      "month": "2026-05",
+      "tickets_total": 812,
+      "refund_tickets": 149,
+      "refund_rate": 0.1835,
+      "refund_inr": 426737.0
+    },
+    {
+      "month": "2026-06",
+      "tickets_total": 745,
+      "refund_tickets": 170,
+      "refund_rate": 0.2282,
+      "refund_inr": 450821.0
+    }
+  ],
+  "reason_code": [
+    {
+      "refund_reason_code": "GW-OTHER",
+      "refund_tickets": 991,
+      "refund_inr": 2907036.0,
+      "share": 0.4332
+    },
+    {
+      "refund_reason_code": "RETURN-QC-OK",
+      "refund_tickets": 452,
+      "refund_inr": 1181386.0,
+      "share": 0.1761
+    },
+    {
+      "refund_reason_code": "DUP-PAYMENT",
+      "refund_tickets": 321,
+      "refund_inr": 884586.0,
+      "share": 0.1318
+    },
+    {
+      "refund_reason_code": "CANCEL",
+      "refund_tickets": 222,
+      "refund_inr": 612950.0,
+      "share": 0.0913
+    },
+    {
+      "refund_reason_code": "DOA-REPL",
+      "refund_tickets": 147,
+      "refund_inr": 471190.0,
+      "share": 0.0702
+    },
+    {
+      "refund_reason_code": "WTY-BUYBACK",
+      "refund_tickets": 89,
+      "refund_inr": 289154.0,
+      "share": 0.0431
+    },
+    {
+      "refund_reason_code": "PRICE-ADJ",
+      "refund_tickets": 71,
+      "refund_inr": 207073.0,
+      "share": 0.0309
+    },
+    {
+      "refund_reason_code": "LOST-TRANSIT",
+      "refund_tickets": 47,
+      "refund_inr": 156557.0,
+      "share": 0.0233
+    }
+  ],
+  "teams": [
+    {
+      "assigned_team": "Returns Desk",
+      "tier": "1",
+      "tickets_total": 1161,
+      "refund_tickets": 633,
+      "refund_rate": 0.5452,
+      "refund_inr": 1732192.0,
+      "avg_refund_inr": 2736.48,
+      "share_of_refund_inr": 0.2582
+    },
+    {
+      "assigned_team": "Billing",
+      "tier": "1",
+      "tickets_total": 1600,
+      "refund_tickets": 604,
+      "refund_rate": 0.3775,
+      "refund_inr": 1601340.0,
+      "avg_refund_inr": 2651.23,
+      "share_of_refund_inr": 0.2387
+    },
+    {
+      "assigned_team": "Chat Frontline",
+      "tier": "1",
+      "tickets_total": 3229,
+      "refund_tickets": 362,
+      "refund_rate": 0.1121,
+      "refund_inr": 1093167.0,
+      "avg_refund_inr": 3019.8,
+      "share_of_refund_inr": 0.1629
+    },
+    {
+      "assigned_team": "Logistics",
+      "tier": "1",
+      "tickets_total": 2054,
+      "refund_tickets": 349,
+      "refund_rate": 0.1699,
+      "refund_inr": 1087079.0,
+      "avg_refund_inr": 3114.84,
+      "share_of_refund_inr": 0.162
+    },
+    {
+      "assigned_team": "Email Frontline",
+      "tier": "1",
+      "tickets_total": 1965,
+      "refund_tickets": 204,
+      "refund_rate": 0.1038,
+      "refund_inr": 576560.0,
+      "avg_refund_inr": 2826.27,
+      "share_of_refund_inr": 0.0859
+    },
+    {
+      "assigned_team": "Voice Frontline",
+      "tier": "1",
+      "tickets_total": 1000,
+      "refund_tickets": 113,
+      "refund_rate": 0.113,
+      "refund_inr": 342233.0,
+      "avg_refund_inr": 3028.61,
+      "share_of_refund_inr": 0.051
+    },
+    {
+      "assigned_team": "Escalations & Warranty",
+      "tier": "2",
+      "tickets_total": 591,
+      "refund_tickets": 75,
+      "refund_rate": 0.1269,
+      "refund_inr": 277361.0,
+      "avg_refund_inr": 3698.15,
+      "share_of_refund_inr": 0.0413
+    }
+  ],
+  "open_pending": {
+    "tickets": 115,
+    "inr": 317314.0
+  },
+  "order_integrity": {
+    "refund_tickets_with_order_id": 1542,
+    "refund_tickets_without_order_id": 798,
+    "order_id_not_in_orders": 0,
+    "tickets_above_order_value": 0,
+    "orders_over_refunded": 98,
+    "over_refund_excess_inr": 250054.0
+  },
+  "replacement": {
+    "flag_yes": 166,
+    "rules_yes": 360,
+    "final_yes": 360
+  },
+  "ai": {
+    "mode": "cache",
+    "source_counts": {
+      "rules_fallback": 2324,
+      "llm": 16
+    },
+    "model_id": "groq/openai/gpt-oss-120b",
+    "prompt_version": "reason_v1",
+    "tokens": {
+      "prompt_tokens": 31388,
+      "output_tokens": 3859,
+      "thinking_tokens": 0,
+      "total_tokens": 35247,
+      "usage_calls": 16
+    }
+  }
+}

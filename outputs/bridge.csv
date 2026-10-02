@@ -1,0 +1,7 @@
+step,rule_id,rows_with_amount,amount_paise,amount_inr
+Raw export read as rupees (naive sum),raw_sum,2465,23012408100,230124081.0
+Quarantined rows removed,validation_failure,0,0,0.0
+Legacy_fd amounts rescaled from paise to rupees,legacy_fd_div_100,775,-22305313800,-223053138.0
+Duplicate rows removed,exact_ticket_id_dedup,125,-36101100,-361011.0
+Canonical refund total (ledger),ledger_sum,2340,670993200,6709932.0
+Unexplained residual (computed),residual,0,0,0.0
