@@ -18,12 +18,9 @@ Ranking agents by "who is giving away money" is misleading because refund rates 
 ## 5. Order Integrity Exceptions
 We identified **98 orders totaling ~₹2.5 lakh** that were refunded for more than the original purchase amount, which require immediate review.
 
-## 6. The Business Goal: Double-Dip Exceptions
-**Current estimated refund + replacement rate: 15.6%. The proposed goal is to reduce this toward <1%, with an estimated replacement-cost opportunity of ₹65k–₹133k per quarter. These figures are estimates and need validation.**
-
-This occurs when agents issue both a refund and ship a physical replacement—a direct violation of policy.
+## 6. Business target
+Bring the refund rate from **20.1% to 19.0%**, worth roughly **₹73k per quarter** at recent volume. This is an opportunity estimate based on returning to the earlier observed rate.
 
 ## 7. What Still Needs Validation
 - **Over-refunded orders**: We must confirm whether the 98 over-refunded orders are data artifacts (e.g., test orders) or actual duplicate cash payouts.
 - **AI Accuracy**: Financial pipeline is fully passing and reconciled to ₹0 residual, but final AI classification accuracy is not yet established across the full dataset (currently relying largely on safe rules fallbacks).
-- **Double-Dip Opportunity**: The ₹65k–₹133k savings estimate requires validation of the physical inventory logs to confirm the replacements were actually dispatched.

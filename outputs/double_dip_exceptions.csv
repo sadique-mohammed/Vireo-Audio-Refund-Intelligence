@@ -1,5 +1,5 @@
 ticket_id,month,assigned_team,agent_id,product_sku,refund_inr,replacement_flag,replacement_sent,source,status,evidence
-TK-240016,2025-01,Email Frontline,A3018,VA-EB-AIR,342.0,N,yes,llm,text_only,the sound stutters whenever my phone is in my pocket
+TK-240016,2025-01,Email Frontline,A3018,VA-EB-AIR,342.0,N,yes,llm,text_only,replacement raised
 TK-240028,2025-01,Returns Desk,A3037,VA-EB-PL1,2499.0,N,yes,rules_fallback,text_only,
 TK-240050,2025-01,Returns Desk,A3031,VA-EB-AIR,1799.0,Y,yes,llm,flag_and_text,replacement dispatched as goodwill
 TK-240242,2025-01,Chat Frontline,A3007,VA-EB-PL1,2499.0,N,yes,rules_fallback,text_only,

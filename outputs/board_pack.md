@@ -2,6 +2,10 @@
 
 Period: 2025Q1 to 2026Q2 (6 quarters, by ticket creation date, IST as exported). All money in rupees.
 
+## Business Goal
+
+Reduce the refund rate from 20.1% back to 19.0%, the H1 2025 level. At the recent ticket volume, this represents approximately ₹73,000 less refund value per quarter. This is an opportunity estimate, not a guaranteed saving.
+
 ## Headline
 
 - Canonical refund total: ₹6,709,932 (₹67.1 lakh) on 2,340 refund tickets.

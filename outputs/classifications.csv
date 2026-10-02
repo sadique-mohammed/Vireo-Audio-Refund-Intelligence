@@ -1,34 +1,34 @@
 ticket_id,source,label,replacement_sent,certainty,evidence,evidence_verified,code_label,rules_label,rules_replacement,replacement_flag,model_id,prompt_version,prompt_hash
-TK-240003,llm,WARRANTY_BUYBACK,no,high,What is the status of my warranty claim,True,,OTHER_UNCLEAR,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
-TK-240009,llm,CANCELLATION,no,high,"please cancel, ordered by mistake",True,CANCELLATION,CANCELLATION,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
-TK-240015,llm,REFUND_STATUS_FOLLOWUP,no,high,where is the money for the return,True,,OTHER_UNCLEAR,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
-TK-240016,llm,PRODUCT_DEFECT,yes,high,the sound stutters whenever my phone is in my pocket,True,WARRANTY_BUYBACK,WARRANTY_BUYBACK,yes,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240003,llm,WARRANTY_BUYBACK,no,high,What is the status of my warranty claim,True,,OTHER_UNCLEAR,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
+TK-240009,llm,CANCELLATION,no,high,"please cancel, ordered by mistake",True,CANCELLATION,CANCELLATION,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
+TK-240015,llm,REFUND_STATUS_FOLLOWUP,no,high,where is the money for the return,True,,OTHER_UNCLEAR,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
+TK-240016,llm,PRODUCT_DEFECT,yes,high,replacement raised,True,WARRANTY_BUYBACK,WARRANTY_BUYBACK,yes,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240023,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240026,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240028,rules_fallback,OTHER_UNCLEAR,yes,,,False,,OTHER_UNCLEAR,yes,N,,,
-TK-240031,llm,PAYMENT_ISSUE,no,high,duplicate payment,True,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240031,llm,PAYMENT_ISSUE,no,high,duplicate payment,True,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240046,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
-TK-240050,llm,REFUND_STATUS_FOLLOWUP,yes,high,replacement dispatched as goodwill,True,PRODUCT_DEFECT,PRODUCT_DEFECT,yes,Y,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
-TK-240060,llm,PAYMENT_ISSUE,no,high,my bank says [AMOUNT] went to you but ur site says I have no orders,True,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
-TK-240061,llm,REFUND_STATUS_FOLLOWUP,no,high,refund not received yet,True,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240050,llm,REFUND_STATUS_FOLLOWUP,yes,high,replacement dispatched as goodwill,True,PRODUCT_DEFECT,PRODUCT_DEFECT,yes,Y,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
+TK-240060,llm,PAYMENT_ISSUE,no,high,bank says [AMOUNT] went to you but ur site says I have no orders,True,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
+TK-240061,llm,REFUND_STATUS_FOLLOWUP,no,high,refund not received yet,True,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240069,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240089,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240091,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
-TK-240100,llm,REFUND_STATUS_FOLLOWUP,no,high,Still waiting for my refund,True,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240100,llm,REFUND_STATUS_FOLLOWUP,no,high,Still waiting for my refund,True,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240102,rules_fallback,RETURN_PICKUP_QC,no,,,False,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,,,
 TK-240106,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240109,rules_fallback,RETURN_PICKUP_QC,no,,,False,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,,,
-TK-240111,llm,PRODUCT_DEFECT,no,high,single side audio only,True,PRODUCT_DEFECT,PRODUCT_DEFECT,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240111,llm,PRODUCT_DEFECT,no,high,single side audio only,True,PRODUCT_DEFECT,PRODUCT_DEFECT,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240117,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240120,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
-TK-240121,llm,CANCELLATION,no,high,"Change of mind, please stop the shipment.",True,CANCELLATION,CANCELLATION,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240121,llm,CANCELLATION,no,high,"Change of mind, please stop the shipment",True,CANCELLATION,CANCELLATION,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240134,rules_fallback,RETURN_PICKUP_QC,no,,,False,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,,,
 TK-240135,rules_fallback,RETURN_PICKUP_QC,no,,,False,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,,,
 TK-240138,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240146,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240148,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240154,rules_fallback,CANCELLATION,no,,,False,CANCELLATION,CANCELLATION,no,N,,,
-TK-240157,llm,PRODUCT_DEFECT,no,high,Left side has no audio at all,True,WARRANTY_BUYBACK,WARRANTY_BUYBACK,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240157,llm,PRODUCT_DEFECT,no,high,Left side has no audio at all,True,WARRANTY_BUYBACK,WARRANTY_BUYBACK,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240163,rules_fallback,CANCELLATION,no,,,False,CANCELLATION,CANCELLATION,no,N,,,
 TK-240177,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240194,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
@@ -60,7 +60,7 @@ TK-240381,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240384,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240399,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240409,rules_fallback,CANCELLATION,no,,,False,CANCELLATION,CANCELLATION,no,N,,,
-TK-240415,llm,PRICE_COUPON,no,high,coupon code not working,True,PRICE_COUPON,PRICE_COUPON,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240415,llm,PRICE_COUPON,no,high,coupon code not working,True,PRICE_COUPON,PRICE_COUPON,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240416,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240429,rules_fallback,OTHER_UNCLEAR,yes,,,False,,OTHER_UNCLEAR,yes,Y,,,
 TK-240444,rules_fallback,WARRANTY_BUYBACK,yes,,,False,WARRANTY_BUYBACK,WARRANTY_BUYBACK,yes,Y,,,
@@ -68,7 +68,7 @@ TK-240448,rules_fallback,CANCELLATION,no,,,False,CANCELLATION,CANCELLATION,no,N,
 TK-240454,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240460,rules_fallback,RETURN_PICKUP_QC,no,,,False,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,,,
 TK-240466,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
-TK-240477,llm,NON_DELIVERY,no,high,tracking has said out for delivery for a week now,True,NON_DELIVERY,NON_DELIVERY,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240477,llm,NON_DELIVERY,no,high,tracking has said out for delivery for a week now,True,NON_DELIVERY,NON_DELIVERY,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240479,rules_fallback,OTHER_UNCLEAR,yes,,,False,,OTHER_UNCLEAR,yes,N,,,
 TK-240483,rules_fallback,OTHER_UNCLEAR,yes,,,False,,OTHER_UNCLEAR,yes,Y,,,
 TK-240484,rules_fallback,CANCELLATION,no,,,False,CANCELLATION,CANCELLATION,no,N,,,
@@ -114,7 +114,7 @@ TK-240702,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240712,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240725,rules_fallback,CANCELLATION,no,,,False,CANCELLATION,CANCELLATION,no,N,,,
 TK-240737,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
-TK-240746,llm,NON_DELIVERY,no,high,my order has not been delivered yet,True,NON_DELIVERY,NON_DELIVERY,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240746,llm,NON_DELIVERY,no,high,my order has not been delivered yet,True,NON_DELIVERY,NON_DELIVERY,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240751,rules_fallback,WARRANTY_BUYBACK,yes,,,False,WARRANTY_BUYBACK,WARRANTY_BUYBACK,yes,N,,,
 TK-240753,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240759,rules_fallback,PRODUCT_DEFECT,yes,,,False,PRODUCT_DEFECT,PRODUCT_DEFECT,yes,Y,,,
@@ -135,7 +135,7 @@ TK-240845,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240853,rules_fallback,RETURN_PICKUP_QC,no,,,False,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,,,
 TK-240856,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,
 TK-240864,rules_fallback,PRODUCT_DEFECT,yes,,,False,PRODUCT_DEFECT,PRODUCT_DEFECT,yes,N,,,
-TK-240868,llm,PRICE_COUPON,no,high,Coupon cdoe not working,True,PRICE_COUPON,PRICE_COUPON,no,N,groq/openai/gpt-oss-120b,reason_v1,2eacf7a9f671b98a921557a87653605557934887696c43586b1ab6dbbceaf46d
+TK-240868,llm,PRICE_COUPON,no,high,Coupon cdoe not working,True,PRICE_COUPON,PRICE_COUPON,no,N,groq/openai/gpt-oss-120b,reason_v1,3aba093000dc344c7acd8b1f3f2cc56da8113ef92f0977963f8f3643e61d84d3
 TK-240877,rules_fallback,RETURN_PICKUP_QC,no,,,False,RETURN_PICKUP_QC,RETURN_PICKUP_QC,no,N,,,
 TK-240878,rules_fallback,PAYMENT_ISSUE,no,,,False,PAYMENT_ISSUE,PAYMENT_ISSUE,no,N,,,
 TK-240879,rules_fallback,OTHER_UNCLEAR,no,,,False,,OTHER_UNCLEAR,no,N,,,

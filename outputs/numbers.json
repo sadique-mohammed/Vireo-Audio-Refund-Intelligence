@@ -418,10 +418,10 @@
     "model_id": "groq/openai/gpt-oss-120b",
     "prompt_version": "reason_v1",
     "tokens": {
-      "prompt_tokens": 31388,
-      "output_tokens": 3859,
+      "prompt_tokens": 32332,
+      "output_tokens": 3814,
       "thinking_tokens": 0,
-      "total_tokens": 35247,
+      "total_tokens": 36146,
       "usage_calls": 16
     }
   }
