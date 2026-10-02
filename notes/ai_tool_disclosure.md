@@ -1,9 +1,9 @@
 # AI Tool / Model Disclosure
 
-| Tool / Model | Used for                  | Helped with | Failed / wasted time on | Discarded | Cost |
-| ------------ | ------------------------- | ----------- | ----------------------- | --------- | ---- |
-| GPT + Claude | Planning and architecture | Design      | Over-engineered flows   | Complex RAG| $0   |
-| Antigravity  | Coding and implementation | Speeding up | Rate limit debugging    | UI/Dashboards| $0   |
+| Tool / Model | Used for                  | Helped with | Failed / wasted time on | Discarded      | Cost |
+| ------------ | ------------------------- | ----------- | ----------------------- | -------------- | ---- |
+| GPT + Claude | Planning and architecture | Design      | Over-engineered flows   | Complex Design | $0   |
+| Antigravity  | Coding and implementation | Speeding up | Rate limit debugging    | UI/Dashboards  | $0   |
 
 ## Development use vs product use
 
