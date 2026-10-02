@@ -2,8 +2,8 @@
 
 | Tool / Model | Used for                  | Helped with | Failed / wasted time on | Discarded | Cost |
 | ------------ | ------------------------- | ----------- | ----------------------- | --------- | ---- |
-| GPT + Claude | Planning and architecture |             |                         |           |      |
-| Antigravity  | Coding and implementation |             |                         |           |      |
+| GPT + Claude | Planning and architecture | Design      | Over-engineered flows   | Complex RAG| $0   |
+| Antigravity  | Coding and implementation | Speeding up | Rate limit debugging    | UI/Dashboards| $0   |
 
 ## Development use vs product use
 
@@ -19,4 +19,4 @@ The product exclusively relies on `groq/openai/gpt-oss-120b` (or equivalent open
 
 ## Cost calculation
 
-**Inference cost:** ₹0 paid API cost for the delivered run because Ollama was used locally.
+**Inference cost:** $0.00 paid API cost for the delivered run because Groq's free tier was used.

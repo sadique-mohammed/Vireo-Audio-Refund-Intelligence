@@ -1,5 +1,6 @@
 # Final Submission Form Answers
 
+![Pipeline Architecture](architecture.png)
 ## What did you build, and what business outcome does it move?
 
 I built an AI-free deterministic financial ledger to solve the reconciliation crisis (explaining the gap between the ₹2.3 crore raw figure and the ₹67 lakh canonical figure), coupled with an AI extraction layer.
