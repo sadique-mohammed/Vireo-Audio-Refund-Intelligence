@@ -47,6 +47,8 @@ https://github.com/sadique-mohammed/Vireo-Audio-Refund-Intelligence
 
 ## Screen recording
 
+https://www.loom.com/share/db845abdfb1844dba9e10c77edd26d1f
+
 ## Three things for Monday handoff
 
 - Start with `README.md` and run the pipeline; the ledger is the financial source of truth.
